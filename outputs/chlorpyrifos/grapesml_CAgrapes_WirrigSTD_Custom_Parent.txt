@@ -1,0 +1,133 @@
+ Variable Volume Water Model, Version    1.02000000000000     
+ 
+ *******************************************
+Performed on:  9/ 5/2017  at  9: 2
+ 
+Initial 1-in-10.0  =   302.     ppb
+Chronic 1-in-10.0  =  0.472     ppb
+Simulation Avg     =  0.302     ppb
+4-d avg 1-in-10.0  =   16.4     ppb
+21-d avg 1-in-10.0 =   4.13     ppb
+60-d avg 1-in-10.0 =   1.89     ppb
+90-d avg 1-in-10.0 =   1.45     ppb
+1-d avg 1-in-10.0  =   44.5     ppb
+Benthic Pore Water Peak 1-in-10.0     =   31.2     ppb
+Benthic Pore Water 21-d avg 1-in-10.0 =   27.1     ppb
+Benthic Conversion Factor             =   242.     -Pore water (ug/L) to (total mass, ug)/(dry sed mass,kg)
+Benthic Mass Fraction in Pore Water   =  0.153E-02
+ 
+YEAR    1-day     4-day      21-day     60-day     90-day   Yearly Avg Benthic Pk  Benthic 21-day
+  1    8.53E+00   2.19E+00   5.68E-01   3.19E-01   2.80E-01   1.20E-01   2.77E+00   2.42E+00
+  2    1.06E+01   4.12E+00   9.80E-01   5.48E-01   3.97E-01   2.08E-01   4.46E+00   3.79E+00
+  3    1.16E+01   4.62E+00   9.75E-01   5.25E-01   4.30E-01   1.36E-01   3.67E+00   3.14E+00
+  4    1.25E+01   3.54E+00   7.25E-01   5.28E-01   4.05E-01   1.40E-01   4.26E+00   3.63E+00
+  5    2.12E+01   5.44E+00   1.52E+00   5.98E-01   4.20E-01   1.62E-01   6.81E+00   6.40E+00
+  6    1.48E+01   4.01E+00   1.58E+00   7.39E-01   5.65E-01   2.16E-01   7.08E+00   6.06E+00
+  7    9.10E+00   2.35E+00   6.89E-01   3.77E-01   2.82E-01   1.47E-01   3.02E+00   2.72E+00
+  8    2.09E+01   5.37E+00   1.57E+00   7.29E-01   5.72E-01   2.65E-01   8.59E+00   7.40E+00
+  9    2.05E+01   7.77E+00   1.77E+00   8.11E-01   5.87E-01   2.51E-01   6.53E+00   5.75E+00
+ 10    1.88E+01   6.16E+00   1.73E+00   8.14E-01   5.85E-01   2.18E-01   7.57E+00   6.40E+00
+ 11    1.12E+01   2.87E+00   1.25E+00   6.40E-01   5.34E-01   1.96E-01   3.71E+00   3.18E+00
+ 12    1.94E+01   4.94E+00   1.94E+00   1.05E+00   7.68E-01   2.84E-01   6.30E+00   5.68E+00
+ 13    1.05E+01   2.89E+00   1.11E+00   8.53E-01   7.71E-01   2.48E-01   3.58E+00   3.60E+00
+ 14    2.57E+01   6.59E+00   1.43E+00   7.68E-01   6.58E-01   2.61E-01   9.38E+00   7.94E+00
+ 15    3.11E+01   7.99E+00   1.81E+00   1.22E+00   8.65E-01   3.79E-01   1.28E+01   1.08E+01
+ 16    3.34E+01   9.84E+00   2.99E+00   1.54E+00   1.11E+00   4.01E-01   1.76E+01   1.59E+01
+ 17    3.07E+01   1.30E+01   5.79E+00   2.55E+00   1.82E+00   7.02E-01   2.56E+01   2.34E+01
+ 18    2.70E+01   6.95E+00   1.70E+00   8.05E-01   6.14E-01   2.86E-01   1.02E+01   8.78E+00
+ 19    2.29E+01   5.90E+00   2.47E+00   1.15E+00   9.25E-01   3.39E-01   1.19E+01   1.04E+01
+ 20    3.15E+01   8.05E+00   1.67E+00   8.89E-01   6.12E-01   2.89E-01   1.18E+01   9.97E+00
+ 21    1.63E+01   4.16E+00   1.05E+00   4.09E-01   6.21E-01   2.11E-01   5.90E+00   5.29E+00
+ 22    1.19E+01   3.03E+00   1.02E+00   4.08E-01   2.80E-01   1.19E-01   2.63E+00   2.38E+00
+ 23    2.28E+01   5.87E+00   1.21E+00   6.35E-01   7.32E-01   3.17E-01   8.08E+00   6.79E+00
+ 24    1.59E+01   4.04E+00   8.53E-01   5.53E-01   4.93E-01   1.88E-01   3.98E+00   3.63E+00
+ 25    4.97E+01   1.86E+01   4.06E+00   1.72E+00   1.23E+00   3.82E-01   3.29E+01   2.80E+01
+ 26    2.21E+01   6.39E+00   1.37E+00   8.03E-01   5.89E-01   3.13E-01   9.25E+00   7.88E+00
+ 27    1.59E+01   6.17E+00   1.88E+00   1.07E+00   8.16E-01   3.45E-01   9.28E+00   8.19E+00
+ 28    1.03E+01   2.64E+00   9.12E-01   4.21E-01   4.32E-01   1.40E-01   3.09E+00   3.67E+00
+ 29    3.92E+01   1.16E+01   2.82E+00   1.53E+00   1.11E+00   4.07E-01   1.83E+01   1.61E+01
+ 30    1.52E+01   4.34E+00   1.75E+00   1.14E+00   8.38E-01   3.05E-01   7.16E+00   6.38E+00
+ 31    2.65E+01   6.81E+00   1.83E+00   9.03E-01   9.43E-01   2.97E-01   1.05E+01   9.23E+00
+ 32    1.94E+01   4.99E+00   1.35E+00   8.06E-01   6.70E-01   2.55E-01   7.45E+00   6.30E+00
+ 33    1.02E+01   3.48E+00   1.08E+00   5.75E-01   6.21E-01   2.55E-01   4.23E+00   3.75E+00
+ 34    1.10E+01   3.45E+00   7.28E-01   4.81E-01   4.43E-01   1.89E-01   3.69E+00   3.15E+00
+ 35    1.92E+01   5.41E+00   2.07E+00   1.38E+00   9.53E-01   3.39E-01   8.87E+00   8.03E+00
+ 36    2.89E+01   7.43E+00   2.22E+00   1.54E+00   1.30E+00   4.65E-01   1.31E+01   1.11E+01
+ 37    8.16E+00   2.08E+00   8.02E-01   8.94E-01   8.72E-01   1.70E-01   6.25E+00   7.41E+00
+ 38    2.37E+01   6.49E+00   2.32E+00   9.78E-01   7.06E-01   3.22E-01   1.31E+01   1.11E+01
+ 39    7.12E+01   1.84E+01   4.30E+00   1.87E+00   1.43E+00   4.73E-01   5.69E+01   4.80E+01
+ 40    9.72E+00   4.32E+00   9.21E-01   4.38E-01   4.97E-01   2.30E-01   9.06E+00   1.08E+01
+ 41    2.84E+01   7.32E+00   2.08E+00   7.99E-01   6.61E-01   2.28E-01   1.27E+01   1.06E+01
+ 42    2.29E+01   7.63E+00   3.22E+00   1.42E+00   1.05E+00   3.94E-01   1.45E+01   1.28E+01
+ 43    2.58E+01   7.25E+00   1.83E+00   1.44E+00   1.11E+00   3.83E-01   1.01E+01   8.75E+00
+ 44    6.83E+01   2.17E+01   5.49E+00   2.32E+00   1.78E+00   5.23E-01   6.00E+01   5.17E+01
+ 45    3.61E+01   1.70E+01   5.34E+00   2.20E+00   1.59E+00   6.05E-01   2.95E+01   2.63E+01
+ 46    2.95E+01   7.59E+00   2.20E+00   1.40E+00   1.54E+00   3.95E-01   1.24E+01   1.11E+01
+ 47    1.77E+01   4.53E+00   1.51E+00   7.70E-01   6.01E-01   2.94E-01   8.26E+00   7.02E+00
+ 48    2.48E+01   8.32E+00   1.70E+00   9.50E-01   6.72E-01   2.95E-01   9.45E+00   8.17E+00
+ 49    1.96E+01   5.16E+00   1.26E+00   7.32E-01   6.84E-01   2.61E-01   7.55E+00   6.69E+00
+ 50    5.83E+01   1.73E+01   4.21E+00   1.91E+00   1.48E+00   5.67E-01   4.72E+01   4.06E+01
+ 51    2.15E+01   9.96E+00   2.68E+00   1.14E+00   1.01E+00   4.70E-01   1.49E+01   1.27E+01
+ 52    6.14E+01   1.58E+01   3.85E+00   1.97E+00   1.39E+00   4.71E-01   3.98E+01   3.42E+01
+ 53    1.35E+01   3.44E+00   8.74E-01   4.46E-01   6.29E-01   2.08E-01   7.78E+00   9.05E+00
+ 54    1.69E+01   4.33E+00   9.69E-01   4.88E-01   4.27E-01   2.32E-01   5.23E+00   4.62E+00
+****************************************************************************************************
+ Effective compartment halflives averaged over simulation duration:
+ 
+ washout halflife (days) =             0.189319099348376     
+ water col metab halflife (days) =      238.842433062728     
+ zero hydrolysis                       0
+ photolysis halflife (days)  =          9326.96445792679     
+ volatile halflife (days)  =            707.873843810057     
+ total water col halflife (days) =     0.189114780070330     
+ 
+ zero burial                           0
+ benthic metab halflife (days) =        530.848258572533     
+ zero benthic hydrolysis               0
+ total benthic halflife (days) =        530.848258572533     
+ ***********************************************************************
+ Fractional Contribution of Transport Processes to Waterbody & Total Mass (kg):
+ 
+ Due to Runoff  =     0.7391           168.1    
+ Due to Erosion =     0.2608           59.31    
+ Due to Drift   =     0.0001          0.1955E-01
+ ***********************************************************************
+ Flow in/out Characteristics of Waterbody:
+ Average Daily Runoff Into Waterbody (m3/s) =   2.806691244591862E-003
+ Baseflow Into Waterbody (m3/s)             =   0.330000000000000     
+ Average Daily Flow Out of Waterbody (m3/s) =   0.332837856264732     
+ ***********************************************************************
+ Inputs:
+   6040.     = oc partitioning coefficient
+   91.20     = water column half Life
+   25.00     = reference temp for water column degradation
+   202.7     = benthic Half Life
+   25.00     = Reference temp for benthic degradation
+   2.000     = Q ten value
+   29.60     = photolysis half life
+   40.00     = reference latitude for photolysis study
+   0.000     = hydrolysis half life
+   350.6     = molecular wt
+  0.1870E-04 = vapor pressure
+   1.400     = solubility
+  0.7468E+06 = field area
+   1745.     = water body area
+   4.000     = initial depth
+   4.500     = maximum depth
+   1         1=vvwm, 2=usepa pond, 3 = usepa reservoir, 4 = const vol no flow, 5 = const vol w/flow 
+ F  T = burial, else no burial
+  0.1000E-07 = mass transfer coefficient 
+  0.5000     = PRBEN
+  0.5000E-01 = benthic compartment depth
+  0.5000     = benthic porosity
+   1.350     =  benthic bulk density
+  0.4000E-01 = OC frcation in benthic sediment
+   5.000     = DOC in benthic compartment
+  0.6000E-02 = benthic biomass
+   1.190     = DFAC
+   30.00     = SS
+  0.5000E-02 = chlorophyll
+  0.4000E-01 = OC frcation in water column SS
+   5.000     = DOC in water column
+  0.4000     = biomass in water column
+ FRACTION AREA CROPPED =    1.00000000000000     
